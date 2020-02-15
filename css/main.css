@@ -33,6 +33,6 @@ html {
   position: absolute;
   overflow: hidden;
   max-height: none;
-  bottom: 1em;
+  bottom: .5em;
   left: 0;
 }
