@@ -34,4 +34,5 @@ html {
   overflow: hidden;
   max-height: none;
   bottom: 1em;
+  left: 0;
 }
