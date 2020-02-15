@@ -30,10 +30,8 @@ html {
 
 .banner-content {
   color: #fff;
-  bottom: 1em;
-  left: 50%;
   position: absolute;
-  transform: translateX(-50%);
   overflow: hidden;
   max-height: none;
+  bottom: 1em;
 }
